@@ -8,6 +8,7 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = "^3.9"
 Django = "Using version ^3.1.5 for Django"
+django-environ = "^0.4.5"
 
 [tool.poetry.dev-dependencies]
 ipdb = "Using version ^0.13.4 for ipdb"
