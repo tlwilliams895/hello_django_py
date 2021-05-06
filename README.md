@@ -54,10 +54,3 @@ To do this, you'll need the following:
 └── templates
     └── index.html
 </pre>
-
-#### **Submission**
-
-1.  Push your code up to the _main branch_ of your repo
-2.  Submit a link to the repo
-
-<pre>https://github.com/kenzie-se-q4/hello-django-&ltgithub_username&gt</pre>
