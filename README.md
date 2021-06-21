@@ -1,4 +1,4 @@
-# hello-django
+# Hello-Django - TL Williams
 
 It's time for some hands-on experience building your first Django project!
 
